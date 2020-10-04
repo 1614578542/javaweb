@@ -54,6 +54,6 @@ public class Student {
 	public void setNumber(String number) {
 		this.number = number;
 	}
-	
+	System.out.println("你好")
 
 }
